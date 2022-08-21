@@ -34,4 +34,5 @@ ___________________________________________________________
 **Today's Progress**: 
   - I've done the first project of freeCodeCamp responsive web design course. Survey Form.
   - I've finished the first 75 lessons of JavaScript Basics on freeCodeCamp platform.
+
 **Thoughts**: It's a good warm up I Think :D .

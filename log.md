@@ -36,3 +36,11 @@ ___________________________________________________________
   - I've finished the first 75 lessons of JavaScript Basics on freeCodeCamp platform.
 
 **Thoughts**: It's a good warm up I Think :D .
+___________________________________________________________
+### Day 1: August 22, Monday
+**Today's Progress**:
+  - Done the second project of freeCodeCamp responsive web design course, Tribute Page.
+  - Finished JavaScript Basics part of freeCodeCamp.
+  - Done First Day of 100 Days CSS Challenge.
+**Thought
+  - Recursion concept is a little bit confusing, but eventually I managed to make it digestable using metaphor.

@@ -44,4 +44,4 @@ ___________________________________________________________
   - Done First Day of 100 Days CSS Challenge.
 
 **Thought**
-  - Recursion concept is a little bit confusing, but eventually I managed to make it digestable using metaphor.
+  - Recursion concept is a little bit confusing, but eventually I managed to make it digestible using metaphor.

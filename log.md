@@ -42,5 +42,6 @@ ___________________________________________________________
   - Done the second project of freeCodeCamp responsive web design course, Tribute Page.
   - Finished JavaScript Basics part of freeCodeCamp.
   - Done First Day of 100 Days CSS Challenge.
+
 **Thought
   - Recursion concept is a little bit confusing, but eventually I managed to make it digestable using metaphor.

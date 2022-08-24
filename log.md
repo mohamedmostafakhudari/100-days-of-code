@@ -45,3 +45,12 @@ ___________________________________________________________
 
 **Thought**
   - Recursion concept is a little bit confusing, but eventually I managed to make it digestible using metaphor.
+____________________________________________________________
+### Day 2: August 23, Tuesday
+**Today's Progress**:
+  - Done the third project of fCC responsive web design course, Technical Documentation.
+  - Finished several lessons on ES6
+  - Solved some problems on codewars
+ 
+**Thought**
+  - Destructuring topic is Interesting.

@@ -54,3 +54,8 @@ ____________________________________________________________
  
 **Thought**
   - Destructuring topic is Interesting.
+____________________________________________________________
+### Day 3 of #100DaysOfCode
+**Today's Progress**:
+  - Done the last project of fCC responsive web design course, Portfolio.
+  - Learned Sass(SCSS) basics and started using it to organize and speed up my work flow process.   

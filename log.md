@@ -59,3 +59,14 @@ ____________________________________________________________
 **Today's Progress**:
   - Done the last project of fCC responsive web design course, Portfolio.
   - Learned Sass(SCSS) basics and started using it to organize and speed up my work flow process.   
+_____________________________________________________________
+### Day 4 && Day 5
+**Progress**
+  - Solved some problems on Codewars.
+  - Learned About Optional Chaining.
+  - Built A simple gaming profile.
+
+**ScreenShots**
+![image](https://user-images.githubusercontent.com/47444914/187274159-9ef4fe64-12a6-469a-9102-e52062bab08c.png)
+
+  
